@@ -2,17 +2,9 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title></title>
-		<style type="text/css">
-			a{ text-decoration: none;
-			font-size: 50px;}
-			a:link{color: red;}
-			a:visited{color: purple;}
-			a:hover{color: yellow;}
-			a:active{color: blue;}
-		</style>
+		<title>大阿哲的网页</title>
 	</head>
 	<body>
-		<a href="https://www.baidu.com/" target="_blank">百度</a>
+		<p>你好啊</p>
 	</body>
 </html>
